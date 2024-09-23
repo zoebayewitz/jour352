@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;700;800&display=swap');
+
+body {
+    font-family: "Nanum Myeongjo", serif;
+    background-color: #1C2827;
+    font-size: 18px;
+}
+
+main {
+    background-color: #E9F2F5;
+}
+
+main,
+header,
+section
+{
+    padding: 2em 0;
+}
+
+header img {
+    margin: 0 auto;
+    display: block;
+    width: 25%
+}
+
+.nav-link {
+    color: #EFEACC;
+    padding: .5em;
+    letter-spacing: 1.5px;
+    font-weight: 100;
+    font-size:.9em;
+}
+
+.nav-link:hover {
+    color: #DCCA5B;
+}
+
+h2 {
+    font-family: "Nanum Myeongjo", serif;
+    font-weight: 700;
+}
+
+i {
+    text-transform: uppercase;
+    font-size: .8em;
+    font-weight: 500;
+    line-height: 3
+}
+
+a {
+    color: #1C2827;
+    line-height: 2;
+    font-size: .9em;
+}
+
+footer {
+    color: #EFEACC;
+    padding: 3em;
+    line-height: 2;
+}
+
